@@ -67,3 +67,7 @@ name = "cli"
 
 [[example]]
 name = "repl"
+
+[[example]]
+name = "get_secret"
+required-features = ["insecure"]
